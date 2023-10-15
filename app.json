@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "intermediate-animations-2",
+    "slug": "intermediate-animations-2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
